@@ -3,7 +3,7 @@
 
 face = input("Make a face: ")
 if ":)" in face:
-    print(face.replace(":)", "😐"))
+    print(face.replace(":)", "🙂"))
 if ":(" in face:
     print(face.replace(":(", "🙁"))
 else:
